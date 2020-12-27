@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a backend Software Engineer at [Delivery Hero](https://github.com/deliveryhero/)
 
-- 🌱 I’m currently learning **React**. Also I am doing some reading about **Product managment**.
+- 🌱 I’m currently learning **React**. Also I am reading about **Product Management, Psychology, History and self-development**.
 
 - 📝 I casually write articles in [dev.to](https://dev.to/ahmedeltaweel)
 
