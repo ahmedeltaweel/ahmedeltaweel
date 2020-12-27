@@ -13,6 +13,8 @@
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/ahmedeltaweel/)
 
+- 🤝 Work with me guide can be found [here](https://github.com/ahmedeltaweel/work-with-me-guide)
+
 - ⚡ Fun fact **I do not drink anything sugary yet, I am a big desserts fan.**
 
 
