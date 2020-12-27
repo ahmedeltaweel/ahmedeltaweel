@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**. Also I am doing some reading about **Product managment**.
 
-- 📝 I casually write articles on [https://dev.to/ahmedeltaweel](https://dev.to/ahmedeltaweel)
+- 📝 I casually write articles in [dev.to](https://dev.to/ahmedeltaweel)
 
 - 💬 Ask me about anything backend especially in **Python, Django, Flask, Bash, PostgresSql, Docker, gRPC, REST, ElasticSearch, Celery, CI/CD.**
 
