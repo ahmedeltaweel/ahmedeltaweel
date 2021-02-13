@@ -7,6 +7,8 @@
 
 - 📝 I casually write articles in [dev.to](https://dev.to/ahmedeltaweel)
 
+- 📷 Sometimes, I share my thoughts using videos on [youtube](https://www.youtube.com/c/ahmedeltaweel2)
+
 - 💬 Ask me about anything backend especially in **Python, Django, Flask, Bash, PostgresSql, Docker, gRPC, REST, ElasticSearch, Celery, CI/CD.**
 
 - 📫 How to reach me **ahmed.m.eltaweel@outlook.com**
