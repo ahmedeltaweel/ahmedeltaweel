@@ -8,7 +8,7 @@
 
 - 🌱 I love reading about **Product/Engineering/Team Management, Psychology, Behavioural Economics, History and self-development**.
 
-- 📝 I casually write articles in [my blog](https://ahmedeltaweel.hashnode.dev/)
+- 📝 I casually write articles - In Arabic and English - in [my blog](https://ahmedeltaweel.substack.com/)
 
 - 📷 Sometimes, I share my thoughts -In Arabic- using videos on [youtube](https://www.youtube.com/c/ahmedeltaweel2)
 
