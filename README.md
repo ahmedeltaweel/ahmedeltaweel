@@ -1,21 +1,27 @@
-<p align="center">
-  <img src="https://badge.techforpalestine.org/default" alt="Ceasefire Now">
-</p>
-<h1 align="center">Hi 👋, I'm Ahmed El Taweel. Call me Taweel.</h1>
-<h6 align="center">A product-driven software engineer with more than 10 years of experience working with national and international remote and in-office agile teams building B2C/B2B products.</h6>
+# Hi there, I'm Ahmed El Taweel 👋
 
-- 🔭 I’m currently working as a backend Software Engineer at [Delivery Hero](https://github.com/deliveryhero/)
+I am a **Senior Software & Platform Engineer** with 10+ years of experience building scalable B2C/B2B products. 
+Currently, I'm part of the **Tech Foundation** team at [**Delivery Hero**](https://github.com/deliveryhero), where I help manage global traffic and Service Mesh solutions.
 
-- 🌱 I love reading about **Product/Engineering/Team Management, Psychology, Behavioural Economics, History and self-development**.
+### 🚀 What I'm up to
+- 🛠️ Engineering global Service Mesh and Gateway solutions at [**Delivery Hero**](https://github.com/deliveryhero).
+- 👨‍💻 Building an MAintaing [**Flxify**](https://github.com/ahmedeltaweel/flxify/)
+- ✍️ Founder & Co-author at **[Hawsaba | حوسبة](https://hawsaba.ink)**, an Arabic tech publication & newsletter.
+- 🏗️ Deep diving into Platform Engineering, Observability, and Developer Experience (DX).
+- 🧩 Tech Advisor assisting early-stage founders in creating scalable MVPs that don’t collapse under growth
 
-- 📝 I casually write articles - In Arabic and English - in [my blog](https://ahmedeltaweel.substack.com/)
+### 🛠️ Tech Stack & Tools
+- **Languages:** Golang, Python, Terraform
+- **Cloud & Infra:** Kubernetes (K8s), Istio (Service Mesh), AWS, GCP, Cloudflare
+- **Data & Messaging:** PostgreSQL, Elasticsearch, Kafka, Redis
+- **Patterns:** Microservices, gRPC, REST, CI/CD (GitHub Actions, Drone CI)
 
-- 📷 Sometimes, I share my thoughts -In Arabic- using videos on [youtube](https://www.youtube.com/c/ahmedeltaweel2)
+### 📚 Beyond Coding
+I am passionate about psychology, behavioral economics, and history. I enjoy sharing knowledge through:
+- 📝 **Articles:** Technical deep-dives in English and Arabic on my [Blog](https://substack.com/@ahmedeltaweel).
+- 📹 **Videos:** Sharing thoughts on tech and life in Arabic on [YouTube](https://www.youtube.com/@ahmedeltaweel2).
 
-- 💬 Ask me about anything backend, especially in **Golang, Python, PostgreSQL, Kubernetes, Docker, gRPC, REST, ElasticSearch, CI/CD, Microservices, SOA, Observability, and more.**
+---
 
-- 📫 How to reach me [my links](https://linktr.ee/ahmedeltaweel)
-
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/ahmedeltaweel/)
-
-- 🤝 Work with me guide can be found [here](https://github.com/ahmedeltaweel/work-with-me-guide)
+### 🤝 Connect with me
+- 📄 [LinkedIn](https://www.linkedin.com/in/ahmedeltaweel/)
