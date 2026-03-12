@@ -5,10 +5,10 @@ Currently, I'm part of the **Tech Foundation** team at [**Delivery Hero**](https
 
 ### 🚀 What I'm up to
 - 🛠️ Engineering global Service Mesh and Gateway solutions at [**Delivery Hero**](https://github.com/deliveryhero).
-- 👨‍💻 Building an MAintaing [**Flxify**](https://github.com/ahmedeltaweel/flxify/)
+- 👨‍💻 Building an maintaining [**Flxify**](https://github.com/ahmedeltaweel/flxify/)
 - ✍️ Founder & Co-author at **[Hawsaba | حوسبة](https://hawsaba.ink)**, an Arabic tech publication & newsletter.
 - 🏗️ Deep diving into Platform Engineering, Observability, and Developer Experience (DX).
-- 🧩 Tech Advisor assisting early-stage founders in creating scalable MVPs that don’t collapse under growth
+- 🧩 Tech Advisor assisting early-stage founders in creating scalable MVPs that don't collapse under growth
 
 ### 🛠️ Tech Stack & Tools
 - **Languages:** Golang, Python, Terraform
