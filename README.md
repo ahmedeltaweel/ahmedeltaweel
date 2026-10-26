@@ -1,4 +1,4 @@
-# Hi there, I'm Ahmed El Taweel 👋
+# Hi there, I'm Ahmed Taweel 👋
 
 I am a **Senior Software & Platform Engineer** with 10+ years of experience building scalable B2C/B2B products. 
 Currently, I'm part of the **Tech Foundation** team at [**Delivery Hero**](https://github.com/deliveryhero), where I help manage global traffic and Service Mesh solutions.
